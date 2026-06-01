@@ -8,6 +8,6 @@ A repository of all the Java Codes written during
 3) I/O
 4) Simple Calculator
 5) While Loop
-6_1) For Loop
-6_2) Table Of 7 with string manipulation
+6) 6_1) For Loop
+   6_2) Table Of 7 with string manipulation
 7) Do - While
